@@ -30,12 +30,12 @@
 
 <!-- Skill badges by https://skillicons.dev -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,js,py,flask,opencv,git,arduino,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,js,git,arduino,postgres,postman" />
 </p>
 
 |     Frontend      |     Backend      |     AI/ML      |      Other      |
 | :---------------: | :-------------: | :------------: | :-------------: |
-| React (Hooks, Router, Styled Components) | Node.js, Flask, Python | OpenCV, HuggingFace, Google Vision API | Circuit Design, REST APIs, Arduino, IoT |
+| React (Hooks, Router, Styled Components) | Node.js, postgres | Google Vision API | KiCAD, Fusion 360, Arduino, IoT, Postman |
 
 ---
 
